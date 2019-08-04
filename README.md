@@ -15,7 +15,8 @@ Text extraction from an image with black or gray colour text and image should be
 #### 2. Install [Tesseract](https://github.com/tesseract-ocr/tesseract/blob/master/README.md)
 
 ### Installing
-``` follow the steps where installation procedure is explained in respective website.
+``` 
+follow the steps where installation procedure is explained in respective website.
 ```
 ## Authors
 
